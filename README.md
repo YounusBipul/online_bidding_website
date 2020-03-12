@@ -1,7 +1,7 @@
 # online_bidding_website
 
 ### Technologies used
-Laravel, HTML, CSS, Bootstrap, JS
+Laravel, MySql, HTML, CSS, Bootstrap, JS
 
 ### How it works
 * create user account
