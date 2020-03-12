@@ -1,5 +1,8 @@
 # online_bidding_website
 
+### Technologies used
+Laravel, HTML, CSS, Bootstrap, JS
+
 ### How it works
 * create user account
 * Post product for bidding with title, picture, category, minimum starting bid, end time and date.
